@@ -1,2 +1,2 @@
 # canadian-t2-tax-skill
-Canadian T2 Corporate Tax Return preparation skill.
+Canadian T2 Corporate Tax Return preparation skill. Use this skill whenever a user needs help with Canadian corporate taxes, T2 filing, HST returns, CRA submissions, corporate financial statements for a CCPC, or mentions TaxTron, NETFILE, GIFI codes, CCA schedules, or any Canadian small business tax work. Also trigger when the user uploads bank statements, credit card statements, invoices, or prior-year financial statements and wants to prepare tax filings. This skill handles the full end-to-end workflow: document intake, Excel workbook preparation, financial statement generation, HST worksheets, missing invoice creation, and step-by-step TaxTron T2 Web filing guidance.
